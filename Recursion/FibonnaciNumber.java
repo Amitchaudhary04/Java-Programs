@@ -1,16 +1,16 @@
 package Recursion;
 
-import java.util.function.ToDoubleBiFunction;
-
 public class FibonnaciNumber {
     public static void main(String[] args) {
-
-        System.out.println(fibo(6));
+        System.out.println(fib(25));
     }
-    static int fibo(int n){
-        if(n<2){
+    public static int fib(int n){
+        if(n==0 || n==1){
             return n;
         }
-        return (fibo(n-1)+fibo(n-2));
+        int fibn1 = fib(n-1);
+        int fibn2 = fib(n-2);
+        int fib = fibn1 + fibn2;
+        return fib;
     }
 }
