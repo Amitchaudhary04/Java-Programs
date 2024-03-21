@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e379c8f-7d3a-4695-ac1d-f4f7738062cc" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/BitManipulationTechniques/OperationsOnBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/BitManipulationTechniques/OperationsOnBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Counting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Counting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/FibonnaciNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/SumOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StacksQuestions/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/StacksQuestions/Q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BitManipulationTechniques/OperationsOnBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BitManipulationTechniques/OperationsOnBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateStrongPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateStrongPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BitManipulationTechniques/Questions/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BitManipulationTechniques/Questions/Swap.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -83,50 +82,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BasicOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseAnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountSetBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Counting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonnaciNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfixToPostfix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OccurenceInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperationsOnBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PasswordGenerate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SinglyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingFrameWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UsingLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/amit chaudhary/Java Programs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BasicOperators.executor": "Run",
+    "Application.BasicQuestions.executor": "Run",
+    "Application.BitwiseAnd.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CountSetBits.executor": "Run",
+    "Application.Counting.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FibonnaciNumber.executor": "Run",
+    "Application.FindEvenOdd.executor": "Run",
+    "Application.GenerateStrongPassword.executor": "Run",
+    "Application.Implementation.executor": "Run",
+    "Application.InfixToPostfix.executor": "Run",
+    "Application.MaximumSubArray.executor": "Run",
+    "Application.OccurenceInArray.executor": "Run",
+    "Application.OperationsOnBits.executor": "Run",
+    "Application.PasswordGenerate.executor": "Run",
+    "Application.Patterns.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.PowerOfTwo.executor": "Run",
+    "Application.Problem411A.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Queue.executor": "Run",
+    "Application.SinglyLinkedList.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.UsingArrayList.executor": "Run",
+    "Application.UsingFrameWork.executor": "Run",
+    "Application.UsingLinkedList.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/amit chaudhary/Java Programs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,6 +172,20 @@
       <workItem from="1709789897494" duration="1336000" />
       <workItem from="1709815542528" duration="2025000" />
       <workItem from="1709905119597" duration="761000" />
+      <workItem from="1709909695089" duration="813000" />
+      <workItem from="1709910527708" duration="4342000" />
+      <workItem from="1710078216650" duration="1761000" />
+      <workItem from="1710168147259" duration="2712000" />
+      <workItem from="1710254766060" duration="969000" />
+      <workItem from="1710323191976" duration="1617000" />
+      <workItem from="1710346508455" duration="2363000" />
+      <workItem from="1710392097736" duration="1969000" />
+      <workItem from="1710399333937" duration="1862000" />
+      <workItem from="1710434642601" duration="972000" />
+      <workItem from="1710580909407" duration="1226000" />
+      <workItem from="1710596323593" duration="1825000" />
+      <workItem from="1710599367681" duration="610000" />
+      <workItem from="1710657791865" duration="411000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -239,7 +259,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709742471086</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1709910569639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709910569639</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710324421261</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710324421262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710348529726</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710348529726</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,12 +295,24 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
                         <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="git" />
                       </list>
                     </value>
                   </entry>
@@ -275,6 +331,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/BinaryTrees/Implementation.java</url>
+          <line>11</line>
+          <properties field="left" class="BinaryTrees.Implementation.Node" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinaryTrees/Implementation.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog>
           <selected-grouping-rules>
