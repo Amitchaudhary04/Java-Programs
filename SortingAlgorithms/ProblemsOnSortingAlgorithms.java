@@ -7,6 +7,8 @@ import java.util.Arrays;
 public class ProblemsOnSortingAlgorithms {
     public static void main(String[] args) {
         int [] arr = {0,5,4,0,3};
+        int []array = {2,5,7,9,1};
+        max(array);
         sort(arr);
         System.out.println(Arrays.toString(arr));
 
@@ -15,6 +17,8 @@ public class ProblemsOnSortingAlgorithms {
         System.out.println(Arrays.toString(arr2));
         int[] arr3 = {2,3,4,2,5,6,5};
       find(arr3);
+        reverse(123);
+        reverseString("ihan taab utlaF");
     }
     public static void sort(int[]arr){
         int n = arr.length;
@@ -51,5 +55,25 @@ public class ProblemsOnSortingAlgorithms {
                 }
             }
         }
+    }
+    public static void max(int [] array) {
+        Arrays.sort(array);
+        for (int i = array.length - 1; i >= Math.max(array.length - 3, 0); i--) {
+            System.out.println(array[i]);
+
+        }
+    }
+    public static void reverse(int number){
+        int count = 0;
+        while(number>0){
+           int rem = number%10;
+            count = count*10+ rem;
+            number = number / 10;
+        }
+        System.out.println(count);
+    }
+    public static void reverseString(String name) {
+        String reverse = new StringBuffer(name).reverse().toString();
+        System.out.println(reverse);
     }
 }

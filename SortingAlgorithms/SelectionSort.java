@@ -8,20 +8,18 @@ public class SelectionSort {
         selectionSort(arr);
         System.out.println(Arrays.toString(arr));
     }
-    public static void selectionSort(int[]arr){
+    public static void selectionSort(int[]arr) {
         int n = arr.length;
-        for (int i = 0; i < n-1 ; i++) {
-            //suppose the minIndex is i
-            int minIndex = i;
-            for (int j = i+1; j < n ; j++) {
-                if(arr[j]>arr[minIndex]){//in descending order
-                    minIndex = j;
-                }
+        for (int i = 0; i <n-1; i++) {
+            int minElement = i;
+            for (int j = i+1; j <n ; j++) {
+                if(arr[j]<arr[minElement]){
+                    minElement = j;
             }
-            //swap the elements
-            int temp = arr[minIndex];
-            arr[minIndex] = arr[i];
-            arr[i] = temp;
+            }
+            int temp = arr[i];
+            arr[i]=arr[minElement];
+            arr[minElement] = temp;
+        }
         }
     }
-}

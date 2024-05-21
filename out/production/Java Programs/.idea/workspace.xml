@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e379c8f-7d3a-4695-ac1d-f4f7738062cc" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTrees/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/ProblemsOnSortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/ProblemsOnSortingAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/InterviewsQuestionsTopicWise/Arrays/MaximumSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/InterviewsQuestionsTopicWise/Arrays/MaximumSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/ProblemsOnSortingAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/ProblemsOnSortingAlgorithms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/SelectionSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +92,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
     &quot;Application.BasicOperators.executor&quot;: &quot;Run&quot;,
     &quot;Application.BasicQuestions.executor&quot;: &quot;Run&quot;,
     &quot;Application.BitwiseAnd.executor&quot;: &quot;Run&quot;,
@@ -92,10 +100,12 @@
     &quot;Application.CountSetBits.executor&quot;: &quot;Run&quot;,
     &quot;Application.Counting.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
     &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibonnaciNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindEvenOdd.executor&quot;: &quot;Run&quot;,
     &quot;Application.GenerateStrongPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeightOfTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.Implementation.executor&quot;: &quot;Run&quot;,
     &quot;Application.InfixToPostfix.executor&quot;: &quot;Run&quot;,
     &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
@@ -108,6 +118,7 @@
     &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem411A.executor&quot;: &quot;Run&quot;,
     &quot;Application.ProblemsOnSortingAlgorithms.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q3.executor&quot;: &quot;Run&quot;,
@@ -118,6 +129,7 @@
     &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeNode.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsingArrayList.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsingFrameWork.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsingLinkedList.executor&quot;: &quot;Run&quot;,
@@ -133,7 +145,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -199,6 +214,27 @@
       <workItem from="1711368626025" duration="943000" />
       <workItem from="1711382565787" duration="1459000" />
       <workItem from="1711417984467" duration="495000" />
+      <workItem from="1711439055953" duration="1574000" />
+      <workItem from="1711514633025" duration="2281000" />
+      <workItem from="1711608403987" duration="1458000" />
+      <workItem from="1712212893354" duration="1364000" />
+      <workItem from="1712641322982" duration="607000" />
+      <workItem from="1712742266695" duration="324000" />
+      <workItem from="1712998708968" duration="298000" />
+      <workItem from="1713000013939" duration="362000" />
+      <workItem from="1713018614280" duration="2516000" />
+      <workItem from="1713064981775" duration="1479000" />
+      <workItem from="1713592901222" duration="2000" />
+      <workItem from="1713593390247" duration="339000" />
+      <workItem from="1713973717987" duration="2000" />
+      <workItem from="1714582067505" duration="834000" />
+      <workItem from="1715177743520" duration="171000" />
+      <workItem from="1715178084887" duration="165000" />
+      <workItem from="1715230773808" duration="46000" />
+      <workItem from="1715230861939" duration="1020000" />
+      <workItem from="1716099563577" duration="8000" />
+      <workItem from="1716218774417" duration="2532000" />
+      <workItem from="1716258670204" duration="1625000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -304,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711004385074</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1711440165028</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711440165028</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,17 +397,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/BinaryTrees/Implementation.java</url>
-          <line>11</line>
-          <properties field="left" class="BinaryTrees.Implementation.Node" />
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BinaryTrees/Implementation.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
+        </breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog>
