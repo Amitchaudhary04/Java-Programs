@@ -1,3 +1,5 @@
+package LeetcodeQuestions;
+
 import java.util.Arrays;
 
 public class MiddleElement {

@@ -5,17 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e379c8f-7d3a-4695-ac1d-f4f7738062cc" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/BinaryTrees/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTrees/Implementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/ProblemsOnSortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/ProblemsOnSortingAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetcodeQuestions/NextPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateRandomArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/CreateRandomArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecreasingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/DecreasingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateStrongPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/GenerateStrongPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InfixToPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/InfixToPostfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetcodeQuestions/Increse1inArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/Increse1inArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiddleElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/MiddleElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NextPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseArrayExtraArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/ReverseArrayExtraArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StacksQuestions/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/StacksQuestions/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/BinaryTrees/Implementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/ProblemsOnSortingAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/ProblemsOnSortingAlgorithms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/SortingAlgorithms/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/CreateRandomArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/DecreasingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/GenerateStrongPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/InfixToPostfix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/LinkedLists/DoublyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/LinkedLists/DoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/LinkedLists/SinglyLinkedList$node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/LinkedLists/SinglyLinkedList$node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/LinkedLists/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programs/LinkedLists/SinglyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/MiddleElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/NextPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/ReverseArrayExtraArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Programs/random.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestions/random.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +115,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Algo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
     &quot;Application.BasicOperators.executor&quot;: &quot;Run&quot;,
     &quot;Application.BasicQuestions.executor&quot;: &quot;Run&quot;,
     &quot;Application.BitwiseAnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoardPath.executor&quot;: &quot;Run&quot;,
     &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoinPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoinToss.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountSetBits.executor&quot;: &quot;Run&quot;,
     &quot;Application.Counting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
     &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
     &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
@@ -107,39 +137,64 @@
     &quot;Application.GenerateStrongPassword.executor&quot;: &quot;Run&quot;,
     &quot;Application.HeightOfTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.Implementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Increse1inArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.InfixToPostfix.executor&quot;: &quot;Run&quot;,
     &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec1.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaximumSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinAndMaxInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextPrime.executor&quot;: &quot;Run&quot;,
     &quot;Application.OccurenceInArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.OperationsOnBits.executor&quot;: &quot;Run&quot;,
     &quot;Application.PasswordGenerate.executor&quot;: &quot;Run&quot;,
     &quot;Application.Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
     &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOf2.executor&quot;: &quot;Run&quot;,
     &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrettyPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Problem411A.executor&quot;: &quot;Run&quot;,
     &quot;Application.ProblemsOnSortingAlgorithms.executor&quot;: &quot;Run&quot;,
     &quot;Application.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1800.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q268.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q34.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q977.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueenPermutation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RatChasesItsCheese.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturnSingleElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.SinglyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SudokoSolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SudokuSolver.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrappingRainwater.executor&quot;: &quot;Run&quot;,
     &quot;Application.TreeNode.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsingArrayList.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsingFrameWork.executor&quot;: &quot;Run&quot;,
     &quot;Application.UsingLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kthSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/amit chaudhary/Java Programs&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/TelegramBot&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -148,14 +203,15 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.91" />
       </set>
     </attachedChunks>
   </component>
@@ -234,7 +290,54 @@
       <workItem from="1715230861939" duration="1020000" />
       <workItem from="1716099563577" duration="8000" />
       <workItem from="1716218774417" duration="2532000" />
-      <workItem from="1716258670204" duration="1625000" />
+      <workItem from="1716258670204" duration="6656000" />
+      <workItem from="1716268102325" duration="83000" />
+      <workItem from="1716346395410" duration="613000" />
+      <workItem from="1716699279009" duration="2000" />
+      <workItem from="1716741509850" duration="2000" />
+      <workItem from="1718173228193" duration="1816000" />
+      <workItem from="1718341951408" duration="3824000" />
+      <workItem from="1718779559959" duration="749000" />
+      <workItem from="1718951526305" duration="97000" />
+      <workItem from="1719554754445" duration="172000" />
+      <workItem from="1719764800130" duration="1533000" />
+      <workItem from="1719814461214" duration="1300000" />
+      <workItem from="1719849468817" duration="1036000" />
+      <workItem from="1719985758560" duration="1243000" />
+      <workItem from="1720105415685" duration="1297000" />
+      <workItem from="1720157156152" duration="3882000" />
+      <workItem from="1720249877157" duration="790000" />
+      <workItem from="1720316068937" duration="658000" />
+      <workItem from="1720417418301" duration="4977000" />
+      <workItem from="1720497558950" duration="1316000" />
+      <workItem from="1720584292381" duration="5087000" />
+      <workItem from="1720664939715" duration="1082000" />
+      <workItem from="1720763763967" duration="2549000" />
+      <workItem from="1721022616297" duration="1443000" />
+      <workItem from="1721209983901" duration="1155000" />
+      <workItem from="1721211510473" duration="462000" />
+      <workItem from="1721211992820" duration="154000" />
+      <workItem from="1721212165723" duration="129000" />
+      <workItem from="1721212321729" duration="81000" />
+      <workItem from="1721212421174" duration="278000" />
+      <workItem from="1721212722177" duration="101000" />
+      <workItem from="1721212843972" duration="87000" />
+      <workItem from="1721212941930" duration="8000" />
+      <workItem from="1721212966575" duration="4000" />
+      <workItem from="1721213018562" duration="158000" />
+      <workItem from="1721213192475" duration="56000" />
+      <workItem from="1721225418111" duration="3249000" />
+      <workItem from="1721307337222" duration="4686000" />
+      <workItem from="1721367421804" duration="3898000" />
+      <workItem from="1721391749491" duration="2634000" />
+      <workItem from="1721466204119" duration="776000" />
+      <workItem from="1721467413187" duration="153000" />
+      <workItem from="1721467990586" duration="39000" />
+      <workItem from="1721468422912" duration="9000" />
+      <workItem from="1721483696725" duration="1840000" />
+      <workItem from="1721527269880" duration="391000" />
+      <workItem from="1721555227346" duration="5508000" />
+      <workItem from="1721569530092" duration="1783000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -348,7 +451,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711440165028</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1716267519847</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716267519847</updated>
+    </task>
+    <task id="LOCAL-00016" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1721228837664</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721228837664</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,6 +512,7 @@
     <MESSAGE value="Delete Queue.java" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

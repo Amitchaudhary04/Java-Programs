@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package LeetcodeQuestions;
+
 import java.util.Random;
 
 public class random {

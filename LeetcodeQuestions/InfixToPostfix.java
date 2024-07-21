@@ -1,3 +1,5 @@
+package LeetcodeQuestions;
+
 import java.util.Stack;
 
 public class InfixToPostfix {

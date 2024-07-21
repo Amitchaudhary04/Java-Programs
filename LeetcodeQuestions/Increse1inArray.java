@@ -8,11 +8,13 @@ public class Increse1inArray {
         System.out.println(Arrays.toString(increase(arr)));
     }
     public static int[] increase(int[]arr){
-        for (int i = 0; i <arr.length; i++) {
+        int i =arr.length-1;
+        while(i>=0) {
             if(arr[i]%2!=0){
                 arr[i]++;
-            }
 
+            }
+              i--;
         }
         return arr;
     }
